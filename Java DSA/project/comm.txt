@@ -1,0 +1,15 @@
+Git Introduction and Github Commands
+
+Git --> its an version control system 
+---> mainly used for create the repos and clone the projects
+Git Hub --> is cloud platform used to store the projects and other stuff .
+--> Git Commands plays a keyrole for clone and pushing the projects
+
+Git commands
+
+1. git init -- used to intialize the git
+2. git status -- used to check the status of the files
+3. git add . --  used to add the files (.  refers to current directory)
+4. git commit -m "file name" -- used to pass a message
+5. git commit -m "comm.txt files modified" -- used to modified the files
+6. git log -- used to show the commits history time and date etc...
